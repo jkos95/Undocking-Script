@@ -1,6 +1,8 @@
 # Undocking-Script
 Prerequisite: Download and install the AutoHotkey scripting tool: https://www.autohotkey.com
 
+It is recommended to place the .ahk script on your desktop so it can quickly be run when you are ready to undock.
+
 Description: 
 This script was created for enterprise users that work with a laptop docking station with external monitors connected. The Undocking script records window sizes and positions when run, and restores them when you re-dock your PC and click "Restore"
 
