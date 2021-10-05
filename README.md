@@ -9,4 +9,4 @@ When ready to undock your PC, run the script and click "Yes". Read and click "Ok
 
 Please feel free to report any bugs or issues with as much detail as possible and I will be happy to review it and correct them.
 
-See the lower half of the main script for commented details on what each line of code is for. Feel free to further customize the script to your liking. This script can be downloaded, modified, and redistributed freely, but only without compensation of any kind. I learned the AHK syntax and created this script over 3 days to solve an issue that has been present for years.
+See the lower half of the main script for commented details on what each line of code is for. Feel free to further customize the script to your liking. This script can be downloaded, modified, and redistributed freely, but only without compensation of any kind. I learned the AHK syntax and created this script over 3 days to solve an annoying issue that has been present in my organization for years.
